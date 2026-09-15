@@ -6,7 +6,7 @@ Minecraft **1.20.1**, Forge **47.4.10**, serwer **zrgroleplayedition35.gmhst.pl*
 
 **[Pobierz ZRG Launcher dla Windows](https://github.com/kacperwojtasiak12-web/zrg-roleplay-paczka/releases/download/pack-1.0.0/ZRG-Launcher.exe)**
 
-1. Uruchom pobrany plik EXE. Launcher wymaga Java 17.
+1. Uruchom pobrany plik EXE. Launcher sam pobierze i przygotuje Java 17; ręczna instalacja nie jest potrzebna.
 2. Poczekaj na automatyczne pobranie i sprawdzenie paczki. Pierwsze pobranie to około 1,5 GB; pliki Minecrafta są pobierane dodatkowo z oficjalnych źródeł.
 3. Wpisz swój nick i naciśnij **Graj teraz**.
 
