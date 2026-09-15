@@ -4,7 +4,7 @@ Minecraft **1.20.1**, Forge **47.4.10**, serwer **zrgroleplayedition35.gmhst.pl*
 
 ## Pobierz i graj
 
-**[Pobierz ZRG Launcher 1.0.2 dla Windows](https://github.com/kacperwojtasiak12-web/zrg-roleplay-paczka/releases/download/pack-1.0.0/ZRG-Launcher-1.0.2.exe)**
+**[Pobierz ZRG Launcher 1.0.4 dla Windows](https://github.com/kacperwojtasiak12-web/zrg-roleplay-paczka/releases/download/pack-1.0.0/ZRG-Launcher-1.0.4.exe)**
 
 1. Uruchom pobrany plik EXE. Launcher wymaga Java 17.
 2. Poczekaj na automatyczne pobranie i sprawdzenie paczki. Pierwsze pobranie to około 1,3 GB; pliki Minecrafta są pobierane dodatkowo z oficjalnych źródeł.
@@ -21,3 +21,7 @@ Paczka zawiera 78 modów, konfigurację oraz zasoby potrzebne klientowi ZRG Role
 Nie pobieraj ręcznie plików o długich nazwach z sekcji Assets — launcher sam umieszcza je we właściwych folderach. Nie jest potrzebne konto GitHub.
 
 Launcher korzysta z wpisanego nicku, bez logowania Microsoft. Serwer musi dopuszczać taki sposób połączenia. Aplikacja nie jest podpisana certyfikatem wydawcy.
+
+Wersja 1.0.4 naprawia start z pustej lokalnej wersji: przy pierwszym otwarciu wybiera oficjalną paczkę, jeśli starszy profil nie ma modów. Puste wersje lokalne wymagają importu modów lub wybrania „Pobierz paczkę ZRG”.
+
+Motyw launchera jest niebieski, z fotografią serwera w nagłówku oraz logo ZRG 3.5 w aplikacji i ikonie EXE.
